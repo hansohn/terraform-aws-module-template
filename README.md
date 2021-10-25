@@ -14,7 +14,7 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[action-status-shield]: https://github.com/hansohn/terraform-aws-module-template/actions/workflows/pre-commit.yml/badge.svg
+[action-status-shield]: https://github.com/hansohn/terraform-aws-module-template/actions/workflows/pre-commit.yml/badge.svg?style=for-the-badge
 [action-status-url]: https://github.com/hansohn/terraform-aws-module-template/actions/workflows/pre-commit.yml
 [github-tag-shield]: https://img.shields.io/github/tag/hansohn/terraform-aws-module-template.svg?style=for-the-badge
 [github-tag-url]: https://GitHub.com/hansohn/terraform-aws-module-template/tags/
