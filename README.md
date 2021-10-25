@@ -4,7 +4,7 @@
   <p>Github template to assist with Terraform module provisioning</p>
 </div>
 
-[![Build Status][action-status-shield]][action-status-url]
+[![Build Status][github-actions-shield]][github-actions-url]
 [![GitHub tag][github-tag-shield]][github-tag-url]
 [![APACHE 2.0][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -58,8 +58,8 @@ No outputs.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[action-status-shield]: https://github.com/hansohn/terraform-aws-module-template/actions/workflows/pre-commit.yml/badge.svg?style=for-the-badge
-[action-status-url]: https://github.com/hansohn/terraform-aws-module-template/actions/workflows/pre-commit.yml
+[github-actions-shield]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fhansohn%2Fterraform-aws-module-template%2Fbadge%3Fref%3Dmain&style=for-the-badge
+[github-actions-url]: https://actions-badge.atrox.dev/hansohn/terraform-aws-module-template/goto?ref=main
 [github-tag-shield]: https://img.shields.io/github/tag/hansohn/terraform-aws-module-template.svg?style=for-the-badge
 [github-tag-url]: https://GitHub.com/hansohn/terraform-aws-module-template/tags/
 [license-shield]: https://img.shields.io/github/license/hansohn/terraform-aws-module-template.svg?style=for-the-badge
