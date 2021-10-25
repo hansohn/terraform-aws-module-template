@@ -63,6 +63,6 @@ No outputs.
 [github-tag-shield]: https://img.shields.io/github/tag/hansohn/terraform-aws-module-template.svg?style=for-the-badge
 [github-tag-url]: https://GitHub.com/hansohn/terraform-aws-module-template/tags/
 [license-shield]: https://img.shields.io/github/license/hansohn/terraform-aws-module-template.svg?style=for-the-badge
-[license-url]: https://github.com/hansohn/terraform-aws-module-template/blob/master/LICENSE.txt
+[license-url]: https://github.com/hansohn/terraform-aws-module-template/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ryanhansohn
