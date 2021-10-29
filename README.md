@@ -23,11 +23,13 @@
 
 ## :robot: Usage
 
-TODO
+Welcome to the terraform-aws-module-template repo!
 
-## :eyes: Examples
+## :octocat: Examples
 
-- [Complete](examples/complete)
+Please see the sample set of examples below for a better understanding of implementation
+
+- [Complete](examples/complete) - Complete Example
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
