@@ -21,11 +21,11 @@
   </p>
 </div>
 
-## :eyes: Usage
+## :robot: Usage
 
 TODO
 
-## :robot: Examples
+## :eyes: Examples
 
 - [Complete](examples/complete)
 
