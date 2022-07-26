@@ -21,7 +21,7 @@
   </p>
 </div>
 
-## :robot: Usage
+## :open_book: Usage
 
 Welcome to the terraform-aws-module-template repo!
 
