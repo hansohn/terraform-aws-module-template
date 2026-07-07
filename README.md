@@ -14,50 +14,29 @@
     <a href="https://github.com/hansohn/terraform-aws-module-template/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/hansohn/terraform-aws-module-template.svg?style=for-the-badge">
     </a>
-    <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/ryanhansohn">
-      <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555">
-    </a>
   </p>
 </div>
 
-## Usage
+## :open_book: Usage
 
 Welcome to the terraform-aws-module-template repo!
 
-## Examples
+```hcl
+module "example" {
+  source = "hansohn/module-template/aws"
+
+  # insert variables here
+}
+```
+
+## :sparkles: Examples
 
 Please see the sample set of examples below for a better understanding of implementation
 
 - [Complete](examples/complete) - Complete Example
 
 <!-- BEGIN_TF_DOCS -->
-## Requirements
 
-| Name | Version |
-|------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.0.0 |
-| <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 5.0 |
-
-## Providers
-
-No providers.
-
-## Modules
-
-No modules.
-
-## Resources
-
-No resources.
-
-## Inputs
-
-No inputs.
-
-## Outputs
-
-No outputs.
 <!-- END_TF_DOCS -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
