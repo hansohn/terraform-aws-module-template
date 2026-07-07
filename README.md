@@ -14,18 +14,14 @@
     <a href="https://github.com/hansohn/terraform-aws-module-template/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/hansohn/terraform-aws-module-template.svg?style=for-the-badge">
     </a>
-    <!-- LinkedIn -->
-    <a href="https://linkedin.com/in/ryanhansohn">
-      <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555">
-    </a>
   </p>
 </div>
 
-## Usage
+## :open_book: Usage
 
 Welcome to the terraform-aws-module-template repo!
 
-## Examples
+## :sparkles: Examples
 
 Please see the sample set of examples below for a better understanding of implementation
 
