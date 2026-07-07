@@ -21,6 +21,14 @@
 
 Welcome to the terraform-aws-module-template repo!
 
+```hcl
+module "example" {
+  source = "hansohn/module-template/aws"
+
+  # insert variables here
+}
+```
+
 ## :sparkles: Examples
 
 Please see the sample set of examples below for a better understanding of implementation
